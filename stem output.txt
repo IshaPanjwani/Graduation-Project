@@ -1,0 +1,2 @@
+  original mystemmer NewStemmer
+0      hel       hel        hel

@@ -1,0 +1,258 @@
+days day day dai day
+lots lot lot lot lot
+cases cas  case case
+seen seen  seen seen
+missing mis  miss miss
+Childs Child child Child Child
+Childs Child child Child Child
+missing mis  miss miss
+ages ag ag ag age
+Parents Parens par Parent Parent
+worried wor worry worri worri
+Children Childr childr Children Children
+day day day dai day
+parent parens par parent parent
+working work work wor work
+outside outsid outsid outsid outsid
+respective respect respect respect respect
+job job job job job
+one on on on one
+child child child child child
+keep keep keep keep keep
+observation observ observ observ observ
+like lik lik like like
+whether whether wheth whether whether
+child child child child child
+coming com com come come
+safely saf saf safe safe
+school school school school school
+whether whether wheth whether whether
+child child child child child
+happy hap happy happi happi
+school school school school school
+atmosphere atmospher atmosph atmospher atmospher
+etc etc etc etc etc
+point point point point point
+arises aris ar aris aris
+parent parens par parent parent
+keep keep keep keep keep
+observation observ observ observ observ
+seating seat seat seat seat
+respective respect respect respect respect
+office offic off offic offic
+answer answer answ answer answer
+child child child child child
+monitoring monitor monit monitor monitor
+system system system system system
+mobile mobil mobl mobil mobil
+terminal termin termin termin termin
+application applic apply applic applic
+works work work work work
+help help help help help
+android andr android android android
+mobile mobil mobl mobil mobil
+android andr android android android
+application applic apply applic applic
+based bas  base base
+services servic serv servic servic
+Android Andr android Android Android
+mobile mobil mobl mobil mobil
+service servic serv servic servic
+used us  us use
+tracking track track trac track
+exact exact exact exact exact
+location loc loc locat locat
+Child Child child Child Child
+based bas  base base
+systems system system system system
+used us  us use
+track track track track track
+location loc loc locat locat
+Child Child child Child Child
+proposed propos  propos propos
+system system system system system
+includes inclus includ includ includ
+child child child child child
+module modl mod modul modul
+ARM ARM arm ARM ARM
+microcontroller microcontroller control microcontrol microcontrol
+voice voic voic voic voic
+playback playback playback playback playback
+circuit circuit circuit circuit circuit
+parent parens par parent parent
+module modl mod modul modul
+includes inclus includ includ includ
+mobile mobil mobl mobil mobil
+phone phon phon phone phone
+supports support support support support
+internet internet internet internet internet
+connectivity connect connect connect connect
+getting ges get get get
+information inform inform inform inform
+missed mis  miss miss
+child child child child child
+periodical period period periodic period
+basis bas bas basi basi
+Addition Addit addit Addition Addition
+proposed propos  propos propos
+system system system system system
+parents parens par parent parent
+dont dont dont dont dont
+continuously continu continu continu continu
+monitor monit monit monitor monitor
+location loc loc locat locat
+child child child child child
+child child child child child
+going going going go go
+outside outsid outsid outsid outsid
+define def defin defin defin
+area are are area area
+alert alers alert alert alert
+message mes  messag messag
+given giv giv given given
+parents parens par parent parent
+Also Als also Also Also
+child child child child child
+also als also also also
+alert alers alert alert alert
+message mes  messag messag
+send send send send send
+parents parens par parent parent
+Child Child child Child Child
+module modl mod modul modul
+one on on on one
+panic pan pan panic panic
+switch switch switch switch switch
+help help help help help
+child child child child child
+alert alers alert alert alert
+parents parens par parent parent
+days	day	day	dai	day
+lots	lot	lot	lot	lot
+cases	cas		case	case
+seen	seen		seen	seen
+missing	mis		miss	miss
+Childs	Child	child	Child	Child
+Childs	Child	child	Child	Child
+missing	mis		miss	miss
+ages	ag	ag	ag	age
+Parents	Parens	par	Parent	Parent
+worried	wor	worry	worri	worri
+Children	Childr	childr	Children	Children
+day	day	day	dai	day
+parent	parens	par	parent	parent
+working	work	work	wor	work
+outside	outsid	outsid	outsid	outsid
+respective	respect	respect	respect	respect
+job	job	job	job	job
+one	on	on	on	one
+child	child	child	child	child
+keep	keep	keep	keep	keep
+observation	observ	observ	observ	observ
+like	lik	lik	like	like
+whether	whether	wheth	whether	whether
+child	child	child	child	child
+coming	com	com	come	come
+safely	saf	saf	safe	safe
+school	school	school	school	school
+whether	whether	wheth	whether	whether
+child	child	child	child	child
+happy	hap	happy	happi	happi
+school	school	school	school	school
+atmosphere	atmospher	atmosph	atmospher	atmospher
+etc	etc	etc	etc	etc
+point	point	point	point	point
+arises	aris	ar	aris	aris
+parent	parens	par	parent	parent
+keep	keep	keep	keep	keep
+observation	observ	observ	observ	observ
+seating	seat	seat	seat	seat
+respective	respect	respect	respect	respect
+office	offic	off	offic	offic
+answer	answer	answ	answer	answer
+child	child	child	child	child
+monitoring	monitor	monit	monitor	monitor
+system	system	system	system	system
+mobile	mobil	mobl	mobil	mobil
+terminal	termin	termin	termin	termin
+application	applic	apply	applic	applic
+works	work	work	work	work
+help	help	help	help	help
+android	andr	android	android	android
+mobile	mobil	mobl	mobil	mobil
+android	andr	android	android	android
+application	applic	apply	applic	applic
+based	bas		base	base
+services	servic	serv	servic	servic
+Android	Andr	android	Android	Android
+mobile	mobil	mobl	mobil	mobil
+service	servic	serv	servic	servic
+used	us		us	use
+tracking	track	track	trac	track
+exact	exact	exact	exact	exact
+location	loc	loc	locat	locat
+Child	Child	child	Child	Child
+based	bas		base	base
+systems	system	system	system	system
+used	us		us	use
+track	track	track	track	track
+location	loc	loc	locat	locat
+Child	Child	child	Child	Child
+proposed	propos		propos	propos
+system	system	system	system	system
+includes	inclus	includ	includ	includ
+child	child	child	child	child
+module	modl	mod	modul	modul
+ARM	ARM	arm	ARM	ARM
+microcontroller	microcontroller	control	microcontrol	microcontrol
+voice	voic	voic	voic	voic
+playback	playback	playback	playback	playback
+circuit	circuit	circuit	circuit	circuit
+parent	parens	par	parent	parent
+module	modl	mod	modul	modul
+includes	inclus	includ	includ	includ
+mobile	mobil	mobl	mobil	mobil
+phone	phon	phon	phone	phone
+supports	support	support	support	support
+internet	internet	internet	internet	internet
+connectivity	connect	connect	connect	connect
+getting	ges	get	get	get
+information	inform	inform	inform	inform
+missed	mis		miss	miss
+child	child	child	child	child
+periodical	period	period	periodic	period
+basis	bas	bas	basi	basi
+Addition	Addit	addit	Addition	Addition
+proposed	propos		propos	propos
+system	system	system	system	system
+parents	parens	par	parent	parent
+dont	dont	dont	dont	dont
+continuously	continu	continu	continu	continu
+monitor	monit	monit	monitor	monitor
+location	loc	loc	locat	locat
+child	child	child	child	child
+child	child	child	child	child
+going	going	going	go	go
+outside	outsid	outsid	outsid	outsid
+define	def	defin	defin	defin
+area	are	are	area	area
+alert	alers	alert	alert	alert
+message	mes		messag	messag
+given	giv	giv	given	given
+parents	parens	par	parent	parent
+Also	Als	also	Also	Also
+child	child	child	child	child
+also	als	also	also	also
+alert	alers	alert	alert	alert
+message	mes		messag	messag
+send	send	send	send	send
+parents	parens	par	parent	parent
+Child	Child	child	Child	Child
+module	modl	mod	modul	modul
+one	on	on	on	one
+panic	pan	pan	panic	panic
+switch	switch	switch	switch	switch
+help	help	help	help	help
+child	child	child	child	child
+alert	alers	alert	alert	alert
+parents	parens	par	parent	parent

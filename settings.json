@@ -1,0 +1,8 @@
+{
+    "python.analysis.cacheFolderPath": "\"terminal.integrated.shell.windows\": \"C:\\\\Program Files\\\\Git\\\\bin\\\\bash.exe\"",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2C2D34",
+        "titleBar.activeBackground": "#3E4049",
+        "titleBar.activeForeground": "#FAFAFB"
+    }
+}

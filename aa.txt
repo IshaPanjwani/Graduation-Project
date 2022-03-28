@@ -1,0 +1,9 @@
+#for selcting option b/w file & word
+
+class Option
+	
+	def selction
+		print("Press 1 for file & 2 for word")
+		var = input()
+		print(var)
+		
